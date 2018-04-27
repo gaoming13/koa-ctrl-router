@@ -1,0 +1,29 @@
+{
+  "name": "koa-ctrl-router",
+  "description": "Controller Router middleware for koa2.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaoming13/koa-ctrl-router.git"
+  },
+  "main": "lib/router.js",
+  "files": [
+    "lib"
+  ],
+  "author": "gaoming13 <gaoming13@yeah.net>",
+  "version": "1.0.0",
+  "keywords": [
+    "koa",
+    "middleware",
+    "router",
+    "controller"
+  ],
+  "dependencies": {
+      "koa": "^2.0.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "license": "MIT"
+}
